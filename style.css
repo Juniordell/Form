@@ -32,6 +32,7 @@ form {
 
     width: 100%;
     max-width: 500px;
+    height: 500px;
 
     margin: 32px auto;
     padding: 32px 64px;
@@ -75,8 +76,12 @@ button {
 }
 
 button {
-    margin-top: 16px;
+    margin-top: 140px;
     background-color: var(--primary-color);
+}
+
+input {
+    margin-top: 90px;
 }
 
 input ~ label {
