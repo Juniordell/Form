@@ -80,9 +80,6 @@ button {
     background-color: var(--primary-color);
 }
 
-input {
-    margin-top: 90px;
-}
 
 input ~ label {
     position: absolute;
